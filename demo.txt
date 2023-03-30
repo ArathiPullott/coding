@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 helooo how are you
+=======
+commit change
+hello
+>>>>>>> bbceaaa50c47dea34bd60c99ddacc5fd5f011385
